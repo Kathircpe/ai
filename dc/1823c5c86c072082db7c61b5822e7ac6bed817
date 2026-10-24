@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc1823c5c86c072082db7c61b5822e7ac6bed817",
+  "prompts": {},
+  "humans": {
+    "h_bf19f0f446d5d8": {
+      "author": "Kathir Eswaran <kathircp007@gmail.com>"
+    }
+  }
+}
